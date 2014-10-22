@@ -1,4 +1,4 @@
-package com.entrego.android.model;
+package com.mailinator.android.model;
 
 import com.google.gson.annotations.SerializedName;
 

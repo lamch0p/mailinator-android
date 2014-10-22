@@ -1,11 +1,11 @@
-package com.entrego.android;
+package com.mailinator.android;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-import com.entrego.android.model.ApplicationMessage;
+import com.mailinator.android.model.ApplicationMessage;
 import com.google.gson.Gson;
 
 import java.text.DateFormat;

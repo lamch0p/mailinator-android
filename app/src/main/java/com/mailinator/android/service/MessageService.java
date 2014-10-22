@@ -1,7 +1,7 @@
-package com.entrego.android.service;
+package com.mailinator.android.service;
 
-import com.entrego.android.model.AddressToken;
-import com.entrego.android.model.Messages;
+import com.mailinator.android.model.AddressToken;
+import com.mailinator.android.model.Messages;
 
 import retrofit.Callback;
 import retrofit.http.GET;

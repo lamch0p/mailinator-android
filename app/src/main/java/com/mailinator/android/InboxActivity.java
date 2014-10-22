@@ -1,4 +1,4 @@
-package com.entrego.android;
+package com.mailinator.android;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,10 +9,10 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import com.entrego.android.controller.MessageController;
-import com.entrego.android.model.ApplicationMessage;
-import com.entrego.android.model.Message;
-import com.entrego.android.model.Messages;
+import com.mailinator.android.controller.MessageController;
+import com.mailinator.android.model.ApplicationMessage;
+import com.mailinator.android.model.Message;
+import com.mailinator.android.model.Messages;
 import com.google.gson.Gson;
 
 import java.util.ArrayList;

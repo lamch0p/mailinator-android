@@ -1,4 +1,4 @@
-package com.entrego.android;
+package com.mailinator.android;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.entrego.android.model.ApplicationMessage;
+import com.mailinator.android.model.ApplicationMessage;
 
 import java.util.List;
 

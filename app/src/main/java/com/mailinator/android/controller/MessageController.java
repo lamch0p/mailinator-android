@@ -1,13 +1,13 @@
-package com.entrego.android.controller;
+package com.mailinator.android.controller;
 
 import android.os.AsyncTask;
 import android.os.Build;
 import android.util.Log;
 
-import com.entrego.android.model.AddressToken;
-import com.entrego.android.model.Message;
-import com.entrego.android.model.Messages;
-import com.entrego.android.service.MessageService;
+import com.mailinator.android.model.AddressToken;
+import com.mailinator.android.model.Message;
+import com.mailinator.android.model.Messages;
+import com.mailinator.android.service.MessageService;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

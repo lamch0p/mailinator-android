@@ -1,12 +1,12 @@
-package com.entrego.android.utils;
+package com.mailinator.android.utils;
 
 import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.entrego.android.model.Message;
-import com.entrego.android.model.Messages;
+import com.mailinator.android.model.Message;
+import com.mailinator.android.model.Messages;
 
 /**
  * Created by LAMDE on 9/30/2014.
